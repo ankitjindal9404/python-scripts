@@ -18,8 +18,3 @@ This script reads a .txt file, counts the number of lines, words, and characters
 
 ### 5. `website_checker.py`
 This script checks a website's status and automatically retrieves the HTTP mail status. It helps in monitoring the health of a website.
-
-## How to Run
-```bash
-git clone https://github.com/your_username/your_repo_name.git
-cd your_repo_name
